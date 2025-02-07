@@ -1,0 +1,1 @@
+This repository demonstrates an unexpected behavior of the `removeIf` function when used with the values of a `MutableMap` in Kotlin.  The `removeIf` function unexpectedly fails to modify the original map. This example highlights the importance of understanding how `removeIf` interacts with different collection types in Kotlin.
